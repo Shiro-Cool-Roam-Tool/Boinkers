@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A7137614423%2C%22first_name%22%3A%22Akk25%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Vooauuv%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-5238621120816019923&chat_type=sender&auth_date=1730678755&hash=fbb9bed4ab8da0800b75a616260a2109f2352efee6a723bed007a0f48da9ad1e
